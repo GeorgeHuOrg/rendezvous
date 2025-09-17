@@ -37,6 +37,7 @@ Our proposed RDV model significantly improves the triplet prediction mAP by over
 
 # News and Updates
 
+- <b>[2025.09.17]:</b> Check out our [CAMMA Dataset Overlaps](https://github.com/CAMMA-public/camma_dataset_overlaps) repository for an analysis of video overlaps across Cholec80, CholecT50, and Endoscapes to ensure fair dataset splits.
 - <b>[2023.02.20]:</b> CholecT50 can now be accessed on [CAMMA website](http://camma.u-strasbg.fr/datasets).
 - <b>[2022.05.09]:</b> TensorFlow v2 implementation code released!
 - <b>[2022.05.09]:</b> TensorFlow v1 implementation code released!
